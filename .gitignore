@@ -1,5 +1,80 @@
-echo .vs/>> .gitignore
-echo **/bin/>> .gitignore
-echo **/obj/>> .gitignore
-echo packages/>> .gitignore
-echo Debug/>> .gitignore
+####################################################
+# Visual Studio / .NET
+####################################################
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+
+# Build results
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+x64/
+x86/
+AnyCPU/
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+####################################################
+# NuGet
+####################################################
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+project.lock.json
+
+####################################################
+# Logs / temp
+####################################################
+*.log
+*.tmp
+*.bak
+*.cache
+
+####################################################
+# OS generated
+####################################################
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+####################################################
+# Archives / installers
+####################################################
+*.zip
+*.rar
+*.7z
+*.apk
+*.exe
+*.msi
+
+####################################################
+# Game / server specific (ปรับได้)
+####################################################
+# ถ้ามีไฟล์ config ที่เป็นความลับ
+*.key
+*.pem
+*.pfx
+
+# Database dumps
+*.sql
+*.db
+
+####################################################
+# Ignore parent folders accidentally picked up
+####################################################
+../*
+../../*
