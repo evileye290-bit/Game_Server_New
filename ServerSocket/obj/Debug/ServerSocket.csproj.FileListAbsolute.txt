@@ -1,0 +1,40 @@
+E:\Game\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.csprojAssemblyReference.cache
+E:\Game\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\ServerSocket.dll
+E:\Game\Game_Server\Bin\Server\ServerSocket.pdb
+E:\Game\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.csproj.CopyComplete
+E:\Game\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.dll
+E:\Game\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.pdb
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\ServerSocket.dll
+E:\cmdl\Game_Server\Bin\Server\ServerSocket.pdb
+E:\cmdl\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.dll
+E:\cmdl\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.pdb
+E:\SoulLandDivine\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\server\Game_Server\Bin\Server\ServerSocket.dll
+E:\SoulLandDivine\server\Game_Server\Bin\Server\ServerSocket.pdb
+E:\SoulLandDivine\server\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.csproj.AssemblyReference.cache
+E:\SoulLandDivine\server\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\server\Game_Server\Server\ServerSocket\obj\Debug\ServerSo.D2A187B7.Up2Date
+E:\SoulLandDivine\server\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.dll
+E:\SoulLandDivine\server\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\ServerSocket.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\ServerSocket.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerSocket\obj\Debug\ServerSo.D2A187B7.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\ServerSocket.dll
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\ServerSocket.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerSocket\obj\Debug\ServerSo.D2A187B7.Up2Date
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.dll
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerSocket\obj\Debug\ServerSocket.pdb

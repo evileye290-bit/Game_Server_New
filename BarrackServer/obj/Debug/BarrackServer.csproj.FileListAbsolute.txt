@@ -1,0 +1,48 @@
+E:\Game\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\BarrackServer.exe.config
+E:\Game\Game_Server\Bin\Server\BarrackServer.exe
+E:\Game\Game_Server\Bin\Server\BarrackServer.pdb
+E:\Game\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.csprojAssemblyReference.cache
+E:\Game\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.csproj.CopyComplete
+E:\Game\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.exe
+E:\Game\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.pdb
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\BarrackServer.exe.config
+E:\cmdl\Game_Server\Bin\Server\BarrackServer.exe
+E:\cmdl\Game_Server\Bin\Server\BarrackServer.pdb
+E:\cmdl\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.exe
+E:\cmdl\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.pdb
+E:\SoulLandDivine\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\server\Game_Server\Bin\Server\BarrackServer.exe.config
+E:\SoulLandDivine\server\Game_Server\Bin\Server\BarrackServer.exe
+E:\SoulLandDivine\server\Game_Server\Bin\Server\BarrackServer.pdb
+E:\SoulLandDivine\server\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\server\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.exe.config
+E:\SoulLandDivine\server\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\server\Game_Server\Server\BarrackServer\obj\Debug\BarrackS.9E42D432.Up2Date
+E:\SoulLandDivine\server\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.exe
+E:\SoulLandDivine\server\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BarrackServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BarrackServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BarrackServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BarrackServer\obj\Debug\BarrackS.9E42D432.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\BarrackServer.exe.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\BarrackServer.exe
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\BarrackServer.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.exe.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\BarrackServer\obj\Debug\BarrackS.9E42D432.Up2Date
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.exe
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\BarrackServer\obj\Debug\BarrackServer.pdb

@@ -1,0 +1,28 @@
+E:\Game\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.csprojAssemblyReference.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\BattleManagerServer.exe.config
+E:\Game\Game_Server\Bin\Server\BattleManagerServer.exe
+E:\Game\Game_Server\Bin\Server\BattleManagerServer.pdb
+E:\Game\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.csproj.CopyComplete
+E:\Game\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.exe
+E:\Game\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.pdb
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\BattleManagerServer.exe.config
+E:\cmdl\Game_Server\Bin\Server\BattleManagerServer.exe
+E:\cmdl\Game_Server\Bin\Server\BattleManagerServer.pdb
+E:\cmdl\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.exe
+E:\cmdl\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BattleManagerServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BattleManagerServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BattleManagerServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleManager\obj\Debug\BattleMa.DCBA3506.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleManager\obj\Debug\BattleManagerServer.pdb

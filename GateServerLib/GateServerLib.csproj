@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B95B844A-9AD7-4A59-8C7A-2ECB03F314A2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GateServerLib</RootNamespace>
+    <AssemblyName>GateServerLib</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Bin\Server\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\Bin\Server\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x64</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'x64|AnyCPU'">
+    <OutputPath>bin\x64\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Google.Protobuf, Version=3.6.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Common\ThirdDlls\google-protobuf\net35\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Bin\Server\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="ProtocolCatchMsgLogLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Tools\SharedDll\ProtocolCatchMsgLogLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ProtocolObjectParserLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Bin\Server\ProtocolObjectParserLib.dll</HintPath>
+    </Reference>
+    <Reference Include="StackExchange.Redis, Version=1.2.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Common\ThirdDlls\StackExchange.Redis.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UtilityLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Tools\SharedDll\UtilityLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Client\Client.cs" />
+    <Compile Include="Client\ClientBroadcast.cs" />
+    <Compile Include="Client\ClientManager.cs" />
+    <Compile Include="Client\ClientManagerBroadcast.cs" />
+    <Compile Include="Client\ClientManagerLogin.cs" />
+    <Compile Include="Client\ClientResponser.cs" />
+    <Compile Include="Client\ClientResponser_DevilTraining.cs" />
+    <Compile Include="Client\ClientResponser_DomainBenediction.cs" />
+    <Compile Include="Client\ClientResponser_DriftExplore.cs" />
+    <Compile Include="Client\ClientResponser_Shrekland.cs" />
+    <Compile Include="Client\ClientResponser_SpaceTimeTower.cs" />
+    <Compile Include="Client\ClientResponser_WishLantern.cs" />
+    <Compile Include="Client\ClientResponser_XuanBox.cs" />
+    <Compile Include="Client\ClientResponser_School.cs" />
+    <Compile Include="Client\ClientResponser_CampBattle.cs" />
+    <Compile Include="Client\ClientResponser_CampBuild.cs" />
+    <Compile Include="Client\ClientResponser_Canoe.cs" />
+    <Compile Include="Client\ClientResponser_Carnival.cs" />
+    <Compile Include="Client\ClientResponser_CrossChallenge.cs" />
+    <Compile Include="Client\ClientResponser_Cross.cs" />
+    <Compile Include="Client\ClientResponser_Benefit.cs" />
+    <Compile Include="Client\ClientResponser_DivineLove.cs" />
+    <Compile Include="Client\ClientResponser_DragonBoat.cs" />
+    <Compile Include="Client\ClientResponser_Draw.cs" />
+    <Compile Include="Client\ClientResponser_Brothers.cs" />
+    <Compile Include="Client\ClientResponser_Garden.cs" />
+    <Compile Include="Client\ClientResponser_Gift.cs" />
+    <Compile Include="Client\ClientResponser_HiddenWeapon.cs" />
+    <Compile Include="Client\ClientResponser_MidAutumn.cs" />
+    <Compile Include="Client\ClientResponser_NineTest.cs" />
+    <Compile Include="Client\ClientResponser_Roulette.cs" />
+    <Compile Include="Client\ClientResponser_ShrekInvitation.cs" />
+    <Compile Include="Client\ClientResponser_StoneWall.cs" />
+    <Compile Include="Client\ClientResponser_IslandChallenge.cs" />
+    <Compile Include="Client\ClientResponser_ThemeFirework.cs" />
+    <Compile Include="Client\ClientResponser_Travel.cs" />
+    <Compile Include="Client\ClientResponser_Trident.cs" />
+    <Compile Include="Client\ClientResponser_IslandHigh.cs" />
+    <Compile Include="Client\ClientResponser_GodPath.cs" />
+    <Compile Include="Client\ClientResponser_HeroGod.cs" />
+    <Compile Include="Client\ClientResponser_CrossBoss.cs" />
+    <Compile Include="Client\ClientResponser_IntegralBoss.cs" />
+    <Compile Include="Client\ClientResponser_Hunting.cs" />
+    <Compile Include="Client\ClientResponser_Counter.cs" />
+    <Compile Include="Client\ClientResponser_Delegation.cs" />
+    <Compile Include="Client\ClientResponser_Equipment.cs" />
+    <Compile Include="Client\ClientResponser_Nature.cs" />
+    <Compile Include="Client\ClientResponser_PushFigure.cs" />
+    <Compile Include="Client\ClientResponser_Contribution.cs" />
+    <Compile Include="Client\ClientResponser_Rank.cs" />
+    <Compile Include="Client\ClientResponser_Passcard.cs" />
+    <Compile Include="Client\ClientResponser_Shop.cs" />
+    <Compile Include="Client\ClientResponser_SecretArea.cs" />
+    <Compile Include="Client\ClientResponser_ShovelTreasure.cs" />
+    <Compile Include="Client\ClientResponser_SoulRing.cs" />
+    <Compile Include="Client\ClientResponser_Camp.cs" />
+    <Compile Include="Client\ClientResponser_Comment.cs" />
+    <Compile Include="Client\ClientResponser_DailyQuestion.cs" />
+    <Compile Include="Client\ClientResponser_Dungeon.cs" />
+    <Compile Include="Client\ClientResponser_Hero.cs" />
+    <Compile Include="Client\ClientResponser_Pet.cs" />
+    <Compile Include="Client\ClientResponser_Questionnaire.cs" />
+    <Compile Include="Client\ClientResponser_Radio.cs" />
+    <Compile Include="Client\ClientResponser_Skill.cs" />
+    <Compile Include="Client\ClientResponser_Suggest.cs" />
+    <Compile Include="Client\ClientResponser_Guild.cs" />
+    <Compile Include="Client\ClientResponser_Geography.cs" />
+    <Compile Include="Client\ClientResponser_Recharge.cs" />
+    <Compile Include="Client\ClientResponser_Show.cs" />
+    <Compile Include="Client\ClientResponser_Bag.cs" />
+    <Compile Include="Client\ClientResponser_Chat.cs" />
+    <Compile Include="Client\ClientResponser_Friend.cs" />
+    <Compile Include="Client\ClientResponser_Photo.cs" />
+    <Compile Include="Client\ClientResponser_Activity.cs" />
+    <Compile Include="Client\ClientResponser_Task.cs" />
+    <Compile Include="Client\ClientResponser_Email.cs" />
+    <Compile Include="Client\ClientResponser_Behavior.cs" />
+    <Compile Include="Client\ClientResponser_Team.cs" />
+    <Compile Include="Client\ClientResponser_Arena.cs" />
+    <Compile Include="Client\ClientResponser_Theme.cs" />
+    <Compile Include="Client\ClientResponser_HidderWeaponInfo.cs" />
+    <Compile Include="Client\ClientResponser_TransferMap.cs" />
+    <Compile Include="Client\ClientResponser_WareHouse.cs" />
+    <Compile Include="Client\ClientResponser_Welfare.cs" />
+    <Compile Include="Client\ClientResponser_Title.cs" />
+    <Compile Include="Client\ClientResponser_WuhunResonance.cs" />
+    <Compile Include="Client\ClientResponser_WishPool.cs" />
+    <Compile Include="Client\ClientResponser_Tower.cs" />
+    <Compile Include="Client\ClientResponser_Chapter.cs" />
+    <Compile Include="Client\ClientTcp.cs" />
+    <Compile Include="Client\Client_Crypto.cs" />
+    <Compile Include="Client\ClientResponser_Onhook.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Server\Api\Api.cs" />
+    <Compile Include="Server\Api\ApiInit.cs" />
+    <Compile Include="Server\BarrackServer\BarrackServer.cs" />
+    <Compile Include="Server\GlobalServer\GlobalServer.cs" />
+    <Compile Include="Server\ManagerServer\ManagerServer_CreatePlayer.cs" />
+    <Compile Include="Server\ManagerServer\ManagerServer.cs" />
+    <Compile Include="Server\ManagerServer\ManagerServer_ZoneTransform.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Canoe.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_CrossChallenge.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_DevilTraining.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_DomainBenediction.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_DriftExplore.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_HiddenWeapon.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_MidAutumn.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_NineTest.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_DaysRecharge.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Shrekland.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_SpaceTimeTower.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_WishLantern.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_XuanBox.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_School.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_ShrekInvitation.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_ThemeFirework.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Travel.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_CampBattle.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_CampBuild.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Brothers.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Carnival.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_DivineLove.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_DragonBoat.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Garden.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Gift.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_StoneWall.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_IslandChallenge.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Trident.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_IslandHigh.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_HeroGod.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Contribution.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_CrossBoss.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Onhook.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_PushFigure.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Rank.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_ShovelTreasure.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Theme.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_HidderWeaponInfo.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Tower.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Cross.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Benefit.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Chapter.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Draw.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Delegation.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Equipment.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_GodPath.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Passcard.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_SecretArea.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_IntrgralBoss.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Hunting.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Level.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Nature.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_SoulRing.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Behavior.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Camp.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_DailyQuestion.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Dungeon.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Hero.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Pet.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Radio.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Skill.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Suggest.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Chat.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Guild.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Geography.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Recharge.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Show.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Bag.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Friend.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Email.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Photo.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Shop.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Activity.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Task.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Currencies.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Login.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Team.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Arena.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_TransferEnterMap.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Warehouse.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Welfare.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Title.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_WuhunResonance.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_WishPool.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Roulette.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\CryptoUtility\CryptoUtility.csproj">
+      <Project>{320a44a4-ce5a-40cb-b3bd-54cfa954280a}</Project>
+      <Name>CryptoUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\DataProperty\DataProperty.csproj">
+      <Project>{82386101-5390-4ee9-8a50-8464a7fa3972}</Project>
+      <Name>DataProperty</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\DBUtility\DBUtility.csproj">
+      <Project>{6895217e-b154-4cae-bee4-299ac517935d}</Project>
+      <Name>DBUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\EnumerateUtility\EnumerateUtility.csproj">
+      <Project>{746f516c-a4f5-4e19-acb7-f42103ea1114}</Project>
+      <Name>EnumerateUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Logger\Logger.csproj">
+      <Project>{4a3f1bdc-5897-4a06-a348-84587bd74a3e}</Project>
+      <Name>Logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\MessagePacker\MessagePacker.csproj">
+      <Project>{9e3668ea-9f3d-4786-b165-6ee10df7bd12}</Project>
+      <Name>MessagePacker</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Message\ServerProtocol\ServerProtocol.csproj">
+      <Project>{1ee6b65b-6387-4754-bea2-a130f2889ff5}</Project>
+      <Name>ServerProtocol</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\RedisUtility\RedisUtility.csproj">
+      <Project>{2666ba76-b3a4-4db6-b7df-dcf230416025}</Project>
+      <Name>RedisUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\SocketShared\SocketShared.csproj">
+      <Project>{194b443a-daff-47fe-b50c-a122ebe9df78}</Project>
+      <Name>SocketShared</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\CommonUtility\CommonUtility.csproj">
+      <Project>{3b8be3a0-7253-4d5a-91b9-da0407f62e28}</Project>
+      <Name>CommonUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServerFrame\ServerFrame.csproj">
+      <Project>{5924183d-ed9f-43ba-8aa4-e9a1897d3ab2}</Project>
+      <Name>ServerFrame</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServerLogger\ServerLogger.csproj">
+      <Project>{0319b96a-dbc6-4b8b-9a88-4334ae6af34f}</Project>
+      <Name>ServerLogger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\ServerModels\ServerModels.csproj">
+      <Project>{a4275003-1647-409e-a05f-3532f4ff80e6}</Project>
+      <Name>ServerModels</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServerShared\ServerShared.csproj">
+      <Project>{ee41ac96-5eb6-4cf6-9836-1616c887e096}</Project>
+      <Name>ServerShared</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServerSocket\ServerSocket.csproj">
+      <Project>{d70480ed-e595-4517-a26a-055fc19f6b9b}</Project>
+      <Name>ServerSocket</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Client\ClientResponser_Login.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

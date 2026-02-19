@@ -1,0 +1,28 @@
+E:\Game\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\AnalysisServer.exe.config
+E:\Game\Game_Server\Bin\Server\AnalysisServer.exe
+E:\Game\Game_Server\Bin\Server\AnalysisServer.pdb
+E:\Game\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.csprojAssemblyReference.cache
+E:\Game\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.csproj.CopyComplete
+E:\Game\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.exe
+E:\Game\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.pdb
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\AnalysisServer.exe.config
+E:\cmdl\Game_Server\Bin\Server\AnalysisServer.exe
+E:\cmdl\Game_Server\Bin\Server\AnalysisServer.pdb
+E:\cmdl\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.exe
+E:\cmdl\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\AnalysisServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\AnalysisServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\AnalysisServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\AnalysisServer\obj\Debug\Analysis.FE5881E3.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\AnalysisServer\obj\Debug\AnalysisServer.pdb

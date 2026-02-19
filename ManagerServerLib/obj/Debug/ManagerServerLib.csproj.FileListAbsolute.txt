@@ -1,0 +1,40 @@
+E:\Game\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\ManagerServerLib.dll
+E:\Game\Game_Server\Bin\Server\ManagerServerLib.pdb
+E:\Game\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.csproj.CopyComplete
+E:\Game\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.dll
+E:\Game\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.pdb
+E:\Game\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.csprojAssemblyReference.cache
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\ManagerServerLib.dll
+E:\cmdl\Game_Server\Bin\Server\ManagerServerLib.pdb
+E:\cmdl\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.dll
+E:\cmdl\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.pdb
+E:\SoulLandDivine\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\server\Game_Server\Bin\Server\ManagerServerLib.dll
+E:\SoulLandDivine\server\Game_Server\Bin\Server\ManagerServerLib.pdb
+E:\SoulLandDivine\server\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.csproj.AssemblyReference.cache
+E:\SoulLandDivine\server\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\server\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerS.7BCC6A96.Up2Date
+E:\SoulLandDivine\server\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.dll
+E:\SoulLandDivine\server\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\ManagerServerLib.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\ManagerServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerS.7BCC6A96.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\ManagerServerLib.dll
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\ManagerServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerS.7BCC6A96.Up2Date
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.dll
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ManagerServerLib\obj\Debug\ManagerServerLib.pdb

@@ -1,0 +1,24 @@
+E:\Game\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\PayServerLib.dll
+E:\Game\Game_Server\Bin\Server\PayServerLib.pdb
+E:\Game\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.csproj.CopyComplete
+E:\Game\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.dll
+E:\Game\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.pdb
+E:\Game\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.csprojAssemblyReference.cache
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\PayServerLib.dll
+E:\cmdl\Game_Server\Bin\Server\PayServerLib.pdb
+E:\cmdl\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.dll
+E:\cmdl\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\PayServerLib.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\PayServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\PayServerLib\obj\Debug\PayServe.7C5E7F46.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\PayServerLib\obj\Debug\PayServerLib.pdb

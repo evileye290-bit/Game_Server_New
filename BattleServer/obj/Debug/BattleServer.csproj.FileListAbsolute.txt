@@ -1,0 +1,28 @@
+E:\Game\Game_Server\Server\BattleServer\obj\Debug\BattleServer.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\BattleServer.exe.config
+E:\Game\Game_Server\Bin\Server\BattleServer.exe
+E:\Game\Game_Server\Bin\Server\BattleServer.pdb
+E:\Game\Game_Server\Server\BattleServer\obj\Debug\BattleServer.csprojAssemblyReference.cache
+E:\Game\Game_Server\Server\BattleServer\obj\Debug\BattleServer.csproj.CopyComplete
+E:\Game\Game_Server\Server\BattleServer\obj\Debug\BattleServer.exe
+E:\Game\Game_Server\Server\BattleServer\obj\Debug\BattleServer.pdb
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\BattleServer.exe.config
+E:\cmdl\Game_Server\Bin\Server\BattleServer.exe
+E:\cmdl\Game_Server\Bin\Server\BattleServer.pdb
+E:\cmdl\Game_Server\Server\BattleServer\obj\Debug\BattleServer.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\BattleServer\obj\Debug\BattleServer.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\BattleServer\obj\Debug\BattleServer.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\BattleServer\obj\Debug\BattleServer.exe
+E:\cmdl\Game_Server\Server\BattleServer\obj\Debug\BattleServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BattleServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BattleServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BattleServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleServer\obj\Debug\BattleServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleServer\obj\Debug\BattleServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleServer\obj\Debug\BattleServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleServer\obj\Debug\BattleSe.903F29C8.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleServer\obj\Debug\BattleServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleServer\obj\Debug\BattleServer.pdb

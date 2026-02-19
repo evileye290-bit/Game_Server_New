@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE41AC96-5EB6-4CF6-9836-1616C887E096}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ServerShared</RootNamespace>
+    <AssemblyName>ServerShared</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Bin\Server\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\Bin\Server\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'x64|AnyCPU'">
+    <OutputPath>bin\x64\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Auth\AuthManager.cs" />
+    <Compile Include="CMGEInvervene\EncryptHelper.cs" />
+    <Compile Include="CMGEInvervene\GiftRecommendHelper.cs" />
+    <Compile Include="CMGEInvervene\HttpHelper.cs" />
+    <Compile Include="const.cs" />
+    <Compile Include="const_tracking.cs" />
+    <Compile Include="FrameManager.cs" />
+    <Compile Include="Http\HttpRequest.cs" />
+    <Compile Include="Init\ActionLibrary.cs" />
+    <Compile Include="Init\CanoeLibrary.cs" />
+    <Compile Include="Init\CrossChallengeLibrary.cs" />
+    <Compile Include="Init\DevilTrainingLibrary.cs" />
+    <Compile Include="Init\DomainBenedictionLibrary.cs" />
+    <Compile Include="Init\DriftExploreLibrary.cs" />
+    <Compile Include="Init\HiddenWeaponLibrary.cs" />
+    <Compile Include="Init\MidAutumnLibrary.cs" />
+    <Compile Include="Init\NineTestLibrary.cs" />
+    <Compile Include="Init\DaysRechargeLibrary.cs" />
+    <Compile Include="Init\ShreklandLibrary.cs" />
+    <Compile Include="Init\SpaceTimeTowerLibrary.cs" />
+    <Compile Include="Init\TriggerCreatedByGuideSoulItemLibrary.cs" />
+    <Compile Include="Init\WishLanternLibrary.cs" />
+    <Compile Include="Init\XuanBoxLibrary.cs" />
+    <Compile Include="Init\RouletteLibrary.cs" />
+    <Compile Include="Init\SchoolLibrary.cs" />
+    <Compile Include="Init\ShrekInvitationLibrary.cs" />
+    <Compile Include="Init\ThemeFireworkLibrary.cs" />
+    <Compile Include="Init\TravelLibrary.cs" />
+    <Compile Include="Init\BattlePowerLibrary.cs" />
+    <Compile Include="Init\CarnivalBossLibrary.cs" />
+    <Compile Include="Init\CarnivalLibrary.cs" />
+    <Compile Include="Init\CrossBossLibrary.cs" />
+    <Compile Include="Init\DivineLoveLibrary.cs" />
+    <Compile Include="Init\DomainLibrary.cs" />
+    <Compile Include="Init\DragonBoatLibrary.cs" />
+    <Compile Include="Init\GardenLibrary.cs" />
+    <Compile Include="Init\GiftLibrary.cs" />
+    <Compile Include="Init\GodHeroLibrary.cs" />
+    <Compile Include="Init\IslandHighLibrary.cs" />
+    <Compile Include="Init\RechargeRebateLibrary.cs" />
+    <Compile Include="Init\RewardDropLibrary..cs" />
+    <Compile Include="Init\ContributionLibrary.cs" />
+    <Compile Include="Init\ShovelTreasureLibrary.cs" />
+    <Compile Include="Init\SoulSkillLibrary.cs" />
+    <Compile Include="Init\StoneWallLibrary.cs" />
+    <Compile Include="Init\ThemeBossLibrary.cs" />
+    <Compile Include="Init\ThemePassLibrary.cs" />
+    <Compile Include="Init\HidderWeaponLibrary.cs" />
+    <Compile Include="Init\IslandChallengeLibrary.cs" />
+    <Compile Include="Init\TridentLibrary.cs" />
+    <Compile Include="Init\TriggerCreatedByGodLibrary.cs" />
+    <Compile Include="Init\TriggerCreatedByTowerLibrary.cs" />
+    <Compile Include="Init\TriggerInPetLibrary.cs" />
+    <Compile Include="Init\VideoLibrary.cs" />
+    <Compile Include="Init\WarehouseLibrary.cs" />
+    <Compile Include="Init\WuhunResonanceConfig.cs" />
+    <Compile Include="Init\ActivityLibrary.cs" />
+    <Compile Include="Init\CampBattleLibrary.cs" />
+    <Compile Include="Init\CampActivityLibrary.cs" />
+    <Compile Include="Init\CampBuildLibrary.cs" />
+    <Compile Include="Init\CampGatherLibrary.cs" />
+    <Compile Include="Init\DataInfoLibrary.cs" />
+    <Compile Include="Init\OnhookLibrary.cs" />
+    <Compile Include="Init\PushFigureLibrary.cs" />
+    <Compile Include="Init\TowerLibrary.cs" />
+    <Compile Include="Init\CrossBattleLibrary.cs" />
+    <Compile Include="Init\CommonShopLibrary.cs" />
+    <Compile Include="Init\GodPathLibrary.cs" />
+    <Compile Include="Init\TransferMapLibrary.cs" />
+    <Compile Include="Init\TriggerCreatedBySoulBoneLibrary.cs" />
+    <Compile Include="Init\WelfareLibrary.cs" />
+    <Compile Include="Init\WishPoolLibrary.cs" />
+    <Compile Include="Init\WorldLevelLibrary.cs" />
+    <Compile Include="Init\ChapterLibrary.cs" />
+    <Compile Include="Init\DrawLibrary.cs" />
+    <Compile Include="Init\BuffLibrary.cs" />
+    <Compile Include="Init\CampLibrary.cs" />
+    <Compile Include="Init\CharacterInitLibrary.cs" />
+    <Compile Include="Init\CampStarsLibrary.cs" />
+    <Compile Include="Init\ChatLibrary.cs" />
+    <Compile Include="Init\CounterLibrary.cs" />
+    <Compile Include="Init\DelegationLibrary.cs" />
+    <Compile Include="Init\EmailLibrary.cs" />
+    <Compile Include="Init\Faimilybrary.cs" />
+    <Compile Include="Init\CharacterLibrary.cs" />
+    <Compile Include="Init\DungeonLibrary.cs" />
+    <Compile Include="Init\HelpRewardLibrary.cs" />
+    <Compile Include="Init\MarkLibrary.cs" />
+    <Compile Include="Init\MixSkillLibrary.cs" />
+    <Compile Include="Init\NPCLibrary.cs" />
+    <Compile Include="Init\IntegralBossLibrary.cs" />
+    <Compile Include="Init\PassCardLibrary.cs" />
+    <Compile Include="Init\SecretAreaLibrary.cs" />
+    <Compile Include="Init\TeamLibrary.cs" />
+    <Compile Include="Init\HuntingLibrary.cs" />
+    <Compile Include="Init\MapLibrary.cs" />
+    <Compile Include="Init\MonsterGenLibrary.cs" />
+    <Compile Include="Init\RankLibrary.cs" />
+    <Compile Include="Init\ArenaLibrary.cs" />
+    <Compile Include="Init\TriggerCreatedBySkillLibrary.cs" />
+    <Compile Include="Init\GameCongfig.cs" />
+    <Compile Include="Init\LimitLibrary.cs" />
+    <Compile Include="Init\MonsterLibrary.cs" />
+    <Compile Include="Init\NatureLibrary.cs" />
+    <Compile Include="Init\LiftConfig.cs" />
+    <Compile Include="Init\HeroLibrary.cs" />
+    <Compile Include="Init\PetLibrary.cs" />
+    <Compile Include="Init\QuestionnaireLibrary.cs" />
+    <Compile Include="Init\RechargeLibrary.cs" />
+    <Compile Include="Init\RobotLibrary.cs" />
+    <Compile Include="Init\ShowLibrary.cs" />
+    <Compile Include="Init\SkillEffectEnhancePolicyLibrary.cs" />
+    <Compile Include="Init\SkillEffectLibrary.cs" />
+    <Compile Include="Init\SkillLibrary.cs" />
+    <Compile Include="Init\BagLibrary.cs" />
+    <Compile Include="Init\SoulBoneLibrary.cs" />
+    <Compile Include="Init\EquipLibrary.cs" />
+    <Compile Include="Init\SoulRingLibrary.cs" />
+    <Compile Include="Init\TaskLibrary.cs" />
+    <Compile Include="Init\TimingLibrary.cs" />
+    <Compile Include="Init\ShopLibrary.cs" />
+    <Compile Include="Init\TitleLibrary.cs" />
+    <Compile Include="Init\TriggerCreatedBySoulRingLibrary.cs" />
+    <Compile Include="Init\TriggerInHeroLibrary.cs" />
+    <Compile Include="Init\TriggerInMapLibrary.cs" />
+    <Compile Include="Init\TriggerInMonsterLibrary.cs" />
+    <Compile Include="Init\ZoneLibrary.cs" />
+    <Compile Include="KomoeLog\KomoeLogConfig.cs" />
+    <Compile Include="Map\BaseMap.cs" />
+    <Compile Include="Map\MapChannelInfo.cs" />
+    <Compile Include="ObjectHelper.cs" />
+    <Compile Include="Rank\RankUtil.cs" />
+    <Compile Include="Struct\DoubleDeapthMap.cs" />
+    <Compile Include="Struct\MultiMap.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Init\CurrenciesLibrary..cs" />
+    <Compile Include="Reward\RewardManager.cs" />
+    <Compile Include="SecretArea\SecretAreaManager.cs" />
+    <Compile Include="Timer\Timer.cs" />
+    <Compile Include="Struct\ListMap.cs" />
+    <Compile Include="Struct\DoubleDeapthListMap.cs" />
+    <Compile Include="Util\EmojiChecker.cs" />
+    <Compile Include="Util\IMCUtil.cs" />
+    <Compile Include="Util\UidManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\CommonUtility\CommonUtility.csproj">
+      <Project>{3b8be3a0-7253-4d5a-91b9-da0407f62e28}</Project>
+      <Name>CommonUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\DataProperty\DataProperty.csproj">
+      <Project>{82386101-5390-4ee9-8a50-8464a7fa3972}</Project>
+      <Name>DataProperty</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\EnumerateUtility\EnumerateUtility.csproj">
+      <Project>{746f516c-a4f5-4e19-acb7-f42103ea1114}</Project>
+      <Name>EnumerateUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Logger\Logger.csproj">
+      <Project>{4a3f1bdc-5897-4a06-a348-84587bd74a3e}</Project>
+      <Name>Logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\ServerModels\ServerModels.csproj">
+      <Project>{a4275003-1647-409e-a05f-3532f4ff80e6}</Project>
+      <Name>ServerModels</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

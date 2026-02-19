@@ -1,0 +1,24 @@
+E:\Game\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.csprojAssemblyReference.cache
+E:\Game\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\ZoneServerLib.dll
+E:\Game\Game_Server\Bin\Server\ZoneServerLib.pdb
+E:\Game\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.csproj.CopyComplete
+E:\Game\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.dll
+E:\Game\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.pdb
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\ZoneServerLib.dll
+E:\cmdl\Game_Server\Bin\Server\ZoneServerLib.pdb
+E:\cmdl\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.dll
+E:\cmdl\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\ZoneServerLib.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\ZoneServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServ.D5713041.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ZoneServerLib\obj\Debug\ZoneServerLib.pdb

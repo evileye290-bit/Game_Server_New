@@ -1,0 +1,48 @@
+E:\Game\Game_Server\Server\CrossServer\obj\Debug\CrossServer.csprojAssemblyReference.cache
+E:\Game\Game_Server\Server\CrossServer\obj\Debug\CrossServer.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\CrossServer.exe.config
+E:\Game\Game_Server\Bin\Server\CrossServer.exe
+E:\Game\Game_Server\Bin\Server\CrossServer.pdb
+E:\Game\Game_Server\Server\CrossServer\obj\Debug\CrossServer.csproj.CopyComplete
+E:\Game\Game_Server\Server\CrossServer\obj\Debug\CrossServer.exe
+E:\Game\Game_Server\Server\CrossServer\obj\Debug\CrossServer.pdb
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\CrossServer.exe.config
+E:\cmdl\Game_Server\Bin\Server\CrossServer.exe
+E:\cmdl\Game_Server\Bin\Server\CrossServer.pdb
+E:\cmdl\Game_Server\Server\CrossServer\obj\Debug\CrossServer.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\CrossServer\obj\Debug\CrossServer.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\CrossServer\obj\Debug\CrossServer.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\CrossServer\obj\Debug\CrossServer.exe
+E:\cmdl\Game_Server\Server\CrossServer\obj\Debug\CrossServer.pdb
+E:\SoulLandDivine\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\server\Game_Server\Bin\Server\CrossServer.exe.config
+E:\SoulLandDivine\server\Game_Server\Bin\Server\CrossServer.exe
+E:\SoulLandDivine\server\Game_Server\Bin\Server\CrossServer.pdb
+E:\SoulLandDivine\server\Game_Server\Server\CrossServer\obj\Debug\CrossServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\server\Game_Server\Server\CrossServer\obj\Debug\CrossServer.exe.config
+E:\SoulLandDivine\server\Game_Server\Server\CrossServer\obj\Debug\CrossServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\server\Game_Server\Server\CrossServer\obj\Debug\CrossSer.FA6C62B7.Up2Date
+E:\SoulLandDivine\server\Game_Server\Server\CrossServer\obj\Debug\CrossServer.exe
+E:\SoulLandDivine\server\Game_Server\Server\CrossServer\obj\Debug\CrossServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\CrossServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\CrossServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\CrossServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\CrossServer\obj\Debug\CrossServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\CrossServer\obj\Debug\CrossServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\CrossServer\obj\Debug\CrossServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\CrossServer\obj\Debug\CrossSer.FA6C62B7.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\CrossServer\obj\Debug\CrossServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\CrossServer\obj\Debug\CrossServer.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\CrossServer.exe.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\CrossServer.exe
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\CrossServer.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\CrossServer\obj\Debug\CrossServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\CrossServer\obj\Debug\CrossServer.exe.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\CrossServer\obj\Debug\CrossServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\CrossServer\obj\Debug\CrossSer.FA6C62B7.Up2Date
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\CrossServer\obj\Debug\CrossServer.exe
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\CrossServer\obj\Debug\CrossServer.pdb

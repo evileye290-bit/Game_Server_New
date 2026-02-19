@@ -1,0 +1,28 @@
+E:\Game\Game_Server\Server\PayServer\obj\Debug\PayServer.csprojAssemblyReference.cache
+E:\Game\Game_Server\Server\PayServer\obj\Debug\PayServer.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\PayServer.exe.config
+E:\Game\Game_Server\Bin\Server\PayServer.exe
+E:\Game\Game_Server\Bin\Server\PayServer.pdb
+E:\Game\Game_Server\Server\PayServer\obj\Debug\PayServer.csproj.CopyComplete
+E:\Game\Game_Server\Server\PayServer\obj\Debug\PayServer.exe
+E:\Game\Game_Server\Server\PayServer\obj\Debug\PayServer.pdb
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\PayServer.exe.config
+E:\cmdl\Game_Server\Bin\Server\PayServer.exe
+E:\cmdl\Game_Server\Bin\Server\PayServer.pdb
+E:\cmdl\Game_Server\Server\PayServer\obj\Debug\PayServer.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\PayServer\obj\Debug\PayServer.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\PayServer\obj\Debug\PayServer.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\PayServer\obj\Debug\PayServer.exe
+E:\cmdl\Game_Server\Server\PayServer\obj\Debug\PayServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\PayServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\PayServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\PayServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\PayServer\obj\Debug\PayServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\PayServer\obj\Debug\PayServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\PayServer\obj\Debug\PayServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\PayServer\obj\Debug\PayServer.csproj.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\PayServer\obj\Debug\PayServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\PayServer\obj\Debug\PayServer.pdb

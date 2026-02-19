@@ -1,0 +1,24 @@
+E:\Game\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\AnalysisServerLib.dll
+E:\Game\Game_Server\Bin\Server\AnalysisServerLib.pdb
+E:\Game\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.csproj.CopyComplete
+E:\Game\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.dll
+E:\Game\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.pdb
+E:\Game\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.csprojAssemblyReference.cache
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\AnalysisServerLib.dll
+E:\cmdl\Game_Server\Bin\Server\AnalysisServerLib.pdb
+E:\cmdl\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.dll
+E:\cmdl\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\AnalysisServerLib.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\AnalysisServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\AnalysisServerLib\obj\Debug\Analysis.7EAEF72D.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\AnalysisServerLib\obj\Debug\AnalysisServerLib.pdb

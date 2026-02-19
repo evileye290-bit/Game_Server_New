@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{44B064D7-052A-4713-BF89-1D2F365DC6D4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RelationServerLib</RootNamespace>
+    <AssemblyName>RelationServerLib</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Bin\Server\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\Bin\Server\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'x64|AnyCPU'">
+    <OutputPath>bin\x64\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Google.Protobuf, Version=3.6.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Common\ThirdDlls\google-protobuf\net35\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Common\ThirdDlls\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="StackExchange.Redis, Version=1.2.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Common\ThirdDlls\StackExchange.Redis.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Camp\AbstractCampWeekActivity.cs" />
+    <Compile Include="Camp\CampActivityManager_Annoucement.cs" />
+    <Compile Include="Camp\CampActivityManager_Build.cs" />
+    <Compile Include="Camp\CampActivityManager_Battle.cs" />
+    <Compile Include="Camp\CampActivityManager_Rank.cs" />
+    <Compile Include="Camp\CampBattle\CampBattle.cs" />
+    <Compile Include="Camp\CampBattle\CampBattleAssart.cs" />
+    <Compile Include="Camp\CampBattle\CampBattleFinal.cs" />
+    <Compile Include="Camp\CampActivityManager.cs" />
+    <Compile Include="Camp\CampBattle\CampBattleFortGiveUpTimerQuery.cs" />
+    <Compile Include="Camp\CampBattle\CampDungeon.cs" />
+    <Compile Include="Camp\CampBattle\Monster.cs" />
+    <Compile Include="Camp\CampBattle\Defender.cs" />
+    <Compile Include="Camp\CampBattle\CampFort.cs" />
+    <Compile Include="Camp\CampBuild\CampBuild_Reward.cs" />
+    <Compile Include="Camp\CampBuild\CampBuild.cs" />
+    <Compile Include="Camp\CampCoinManager.cs" />
+    <Compile Include="Camp\CampBattleReward.cs" />
+    <Compile Include="Camp\CampRank\CampRank.cs" />
+    <Compile Include="Contribution\ContributionManager.cs" />
+    <Compile Include="CrossChallenge\CrossChallengeManager.cs" />
+    <Compile Include="CrossChallenge\CrossChallengeGuessingManager.cs" />
+    <Compile Include="Cross\CrossGuessingManager.cs" />
+    <Compile Include="Cross\CrossBattleManager.cs" />
+    <Compile Include="Arena\ArenaManager.cs" />
+    <Compile Include="Camp\CampElectionManager.cs" />
+    <Compile Include="Camp\CampRankManager.cs" />
+    <Compile Include="Camp\CampPrestigeManager.cs" />
+    <Compile Include="Client\Client.cs" />
+    <Compile Include="Config\ConfigReloadManager.cs" />
+    <Compile Include="Config\ILoadConfig.cs" />
+    <Compile Include="Email\EmailManager.cs" />
+    <Compile Include="Family\Family.cs" />
+    <Compile Include="Family\FamilyAccumulateDamageModel.cs" />
+    <Compile Include="Info\RedisPlayerInfoManager.cs" />
+    <Compile Include="Info\PlayerInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rank\AbstractRankManager.cs" />
+    <Compile Include="Rank\BaseRankClient.cs" />
+    <Compile Include="Rank\BattlePower\BattlePowerRank.cs" />
+    <Compile Include="Rank\Contribution\ContributionRank.cs" />
+    <Compile Include="Rank\CrossBattle\CrossBattleRank.cs" />
+    <Compile Include="Rank\CrossChallenge\CrossChallengeRank.cs" />
+    <Compile Include="Rank\Hunting\HuntingRank.cs" />
+    <Compile Include="Rank\PushFigure\PushFigureRank.cs" />
+    <Compile Include="Rank\RankManager.cs" />
+    <Compile Include="Rank\BaseRank.cs" />
+    <Compile Include="Rank\RankReward.cs" />
+    <Compile Include="Rank\SecretArea\SecretAreaRank.cs" />
+    <Compile Include="Rank\ThemeBoss\ThemeBossRank.cs" />
+    <Compile Include="Server\Api\Api.cs" />
+    <Compile Include="Server\Api\ApiInit.cs" />
+    <Compile Include="Server\Api\Api_Refresh.cs" />
+    <Compile Include="Server\CrossServer\CrossServer.cs" />
+    <Compile Include="Server\CrossServer\CrossServer_CrossBoss.cs" />
+    <Compile Include="Server\CrossServer\CrossServer_CrossChallenge.cs" />
+    <Compile Include="Server\CrossServer\CrossServer_IslandHigh.cs" />
+    <Compile Include="Server\CrossServer\CrossServer_Rank.cs" />
+    <Compile Include="Server\CrossServer\CrossServer_HidderWeapon.cs" />
+    <Compile Include="Server\CrossServer\CrossServer_Cross.cs" />
+    <Compile Include="Server\CrossServer\CrossServer_Show.cs" />
+    <Compile Include="Server\GlobalServer\GlobalServer.cs" />
+    <Compile Include="Server\ManagerServer\ManagerServer.cs" />
+    <Compile Include="Server\ZoneManager.cs" />
+    <Compile Include="Server\ZoneManager_TimeTask.cs" />
+    <Compile Include="Server\ZoneManager_Arena.cs" />
+    <Compile Include="Server\ZoneManager_Client.cs" />
+    <Compile Include="Server\ZoneServer\ZoneManager_RechargeTimeTask.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Announcement.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Brothers.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_CampBattle.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_CampBuild.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Contribution.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Cross.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Camp.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Chat.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_CrossChallenge.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Family.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Arena.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Gift.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_CrossBoss.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_IslandHigh.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_SecretArea.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Rank.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_HidderWeapon.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Show.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Guild.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Friend.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Team.cs" />
+    <Compile Include="Server\ZoneServer\ZoneServer_Warehouse.cs" />
+    <Compile Include="Show\ShowManager.cs" />
+    <Compile Include="SpaceTimeTower\SpaceTimeTowerManager.cs" />
+    <Compile Include="Team\Team.cs" />
+    <Compile Include="Team\TeamHelpInfo.cs" />
+    <Compile Include="Team\TeamManager.cs" />
+    <Compile Include="Team\TeamMember.cs" />
+    <Compile Include="ThemeBoss\ThemeBossManager.cs" />
+    <Compile Include="Warehouse\WarehouseManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\DataProperty\DataProperty.csproj">
+      <Project>{82386101-5390-4ee9-8a50-8464a7fa3972}</Project>
+      <Name>DataProperty</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\DataUtility\DataUtility.csproj">
+      <Project>{7db82c65-3265-4a69-a9ca-fec85b3dda9a}</Project>
+      <Name>DataUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\DBUtility\DBUtility.csproj">
+      <Project>{6895217e-b154-4cae-bee4-299ac517935d}</Project>
+      <Name>DBUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\EnumerateUtility\EnumerateUtility.csproj">
+      <Project>{746f516c-a4f5-4e19-acb7-f42103ea1114}</Project>
+      <Name>EnumerateUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Logger\Logger.csproj">
+      <Project>{4a3f1bdc-5897-4a06-a348-84587bd74a3e}</Project>
+      <Name>Logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\MessagePacker\MessagePacker.csproj">
+      <Project>{9e3668ea-9f3d-4786-b165-6ee10df7bd12}</Project>
+      <Name>MessagePacker</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\Message\ServerProtocol\ServerProtocol.csproj">
+      <Project>{1ee6b65b-6387-4754-bea2-a130f2889ff5}</Project>
+      <Name>ServerProtocol</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\RedisUtility\RedisUtility.csproj">
+      <Project>{2666ba76-b3a4-4db6-b7df-dcf230416025}</Project>
+      <Name>RedisUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\SocketShared\SocketShared.csproj">
+      <Project>{194b443a-daff-47fe-b50c-a122ebe9df78}</Project>
+      <Name>SocketShared</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\CommonUtility\CommonUtility.csproj">
+      <Project>{3b8be3a0-7253-4d5a-91b9-da0407f62e28}</Project>
+      <Name>CommonUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServerFrame\ServerFrame.csproj">
+      <Project>{5924183d-ed9f-43ba-8aa4-e9a1897d3ab2}</Project>
+      <Name>ServerFrame</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServerLogger\ServerLogger.csproj">
+      <Project>{0319b96a-dbc6-4b8b-9a88-4334ae6af34f}</Project>
+      <Name>ServerLogger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Common\ServerModels\ServerModels.csproj">
+      <Project>{a4275003-1647-409e-a05f-3532f4ff80e6}</Project>
+      <Name>ServerModels</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServerShared\ServerShared.csproj">
+      <Project>{ee41ac96-5eb6-4cf6-9836-1616c887e096}</Project>
+      <Name>ServerShared</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServerSocket\ServerSocket.csproj">
+      <Project>{d70480ed-e595-4517-a26a-055fc19f6b9b}</Project>
+      <Name>ServerSocket</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

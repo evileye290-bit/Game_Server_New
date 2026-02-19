@@ -1,0 +1,40 @@
+E:\Game\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.csprojAssemblyReference.cache
+E:\Game\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\ServerFrame.dll
+E:\Game\Game_Server\Bin\Server\ServerFrame.pdb
+E:\Game\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.csproj.CopyComplete
+E:\Game\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.dll
+E:\Game\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.pdb
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\ServerFrame.dll
+E:\cmdl\Game_Server\Bin\Server\ServerFrame.pdb
+E:\cmdl\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.dll
+E:\cmdl\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.pdb
+E:\SoulLandDivine\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\server\Game_Server\Bin\Server\ServerFrame.dll
+E:\SoulLandDivine\server\Game_Server\Bin\Server\ServerFrame.pdb
+E:\SoulLandDivine\server\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.csproj.AssemblyReference.cache
+E:\SoulLandDivine\server\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\server\Game_Server\Server\ServerFrame\obj\Debug\ServerFr.0EE55163.Up2Date
+E:\SoulLandDivine\server\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.dll
+E:\SoulLandDivine\server\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\ServerFrame.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\ServerFrame.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerFrame\obj\Debug\ServerFr.0EE55163.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\ServerFrame.dll
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\ServerFrame.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerFrame\obj\Debug\ServerFr.0EE55163.Up2Date
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.dll
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerFrame\obj\Debug\ServerFrame.pdb

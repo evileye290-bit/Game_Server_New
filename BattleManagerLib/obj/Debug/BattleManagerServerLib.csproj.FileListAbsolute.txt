@@ -1,0 +1,24 @@
+E:\Game\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\BattleManagerServerLib.dll
+E:\Game\Game_Server\Bin\Server\BattleManagerServerLib.pdb
+E:\Game\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.csproj.CopyComplete
+E:\Game\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.dll
+E:\Game\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.pdb
+E:\Game\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.csprojAssemblyReference.cache
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\BattleManagerServerLib.dll
+E:\cmdl\Game_Server\Bin\Server\BattleManagerServerLib.pdb
+E:\cmdl\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.dll
+E:\cmdl\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BattleManagerServerLib.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BattleManagerServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleManagerLib\obj\Debug\BattleMa.BC3F9993.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleManagerLib\obj\Debug\BattleManagerServerLib.pdb

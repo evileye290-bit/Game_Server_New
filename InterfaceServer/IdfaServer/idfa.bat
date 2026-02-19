@@ -1,0 +1,1 @@
+forever start -l idfa.log -a idfaServer.js

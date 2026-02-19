@@ -1,0 +1,40 @@
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\ServerLogger.dll
+E:\Game\Game_Server\Bin\Server\ServerLogger.pdb
+E:\Game\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.csproj.CopyComplete
+E:\Game\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.dll
+E:\Game\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.pdb
+E:\Game\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.csprojAssemblyReference.cache
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\ServerLogger.dll
+E:\cmdl\Game_Server\Bin\Server\ServerLogger.pdb
+E:\cmdl\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.dll
+E:\cmdl\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.pdb
+E:\SoulLandDivine\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\server\Game_Server\Bin\Server\ServerLogger.dll
+E:\SoulLandDivine\server\Game_Server\Bin\Server\ServerLogger.pdb
+E:\SoulLandDivine\server\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.csproj.AssemblyReference.cache
+E:\SoulLandDivine\server\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\server\Game_Server\Server\ServerLogger\obj\Debug\ServerLo.ADA70372.Up2Date
+E:\SoulLandDivine\server\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.dll
+E:\SoulLandDivine\server\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\ServerLogger.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\ServerLogger.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerLogger\obj\Debug\ServerLo.ADA70372.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\ServerLogger.dll
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\ServerLogger.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerLogger\obj\Debug\ServerLo.ADA70372.Up2Date
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.dll
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\ServerLogger\obj\Debug\ServerLogger.pdb

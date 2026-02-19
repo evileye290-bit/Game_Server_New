@@ -1,0 +1,48 @@
+E:\Game\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Server\GateServer\obj\Debug\GateServer.csprojAssemblyReference.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\GateServer.exe.config
+E:\Game\Game_Server\Bin\Server\GateServer.exe
+E:\Game\Game_Server\Bin\Server\GateServer.pdb
+E:\Game\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.CopyComplete
+E:\Game\Game_Server\Server\GateServer\obj\Debug\GateServer.exe
+E:\Game\Game_Server\Server\GateServer\obj\Debug\GateServer.pdb
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\GateServer.exe.config
+E:\cmdl\Game_Server\Bin\Server\GateServer.exe
+E:\cmdl\Game_Server\Bin\Server\GateServer.pdb
+E:\cmdl\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\GateServer\obj\Debug\GateServer.exe
+E:\cmdl\Game_Server\Server\GateServer\obj\Debug\GateServer.pdb
+E:\SoulLandDivine\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\server\Game_Server\Bin\Server\GateServer.exe.config
+E:\SoulLandDivine\server\Game_Server\Bin\Server\GateServer.exe
+E:\SoulLandDivine\server\Game_Server\Bin\Server\GateServer.pdb
+E:\SoulLandDivine\server\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\server\Game_Server\Server\GateServer\obj\Debug\GateServer.exe.config
+E:\SoulLandDivine\server\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\server\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.Up2Date
+E:\SoulLandDivine\server\Game_Server\Server\GateServer\obj\Debug\GateServer.exe
+E:\SoulLandDivine\server\Game_Server\Server\GateServer\obj\Debug\GateServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\GateServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\GateServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\GateServer.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\GateServer\obj\Debug\GateServer.exe.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\GateServer\obj\Debug\GateServer.exe
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\GateServer\obj\Debug\GateServer.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\GateServer.exe.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\GateServer.exe
+E:\SoulLandDivine\New folder\bbn\Game_Server\Bin\Server\GateServer.pdb
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\GateServer\obj\Debug\GateServer.exe.config
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\GateServer\obj\Debug\GateServer.csproj.Up2Date
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\GateServer\obj\Debug\GateServer.exe
+E:\SoulLandDivine\New folder\bbn\Game_Server\Server\GateServer\obj\Debug\GateServer.pdb

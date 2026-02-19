@@ -1,0 +1,24 @@
+E:\Game\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.csproj.CoreCompileInputs.cache
+E:\Game\Game_Server\Bin\Server\NLog.config
+E:\Game\Game_Server\Bin\Server\BattleServerLib.dll
+E:\Game\Game_Server\Bin\Server\BattleServerLib.pdb
+E:\Game\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.csproj.CopyComplete
+E:\Game\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.dll
+E:\Game\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.pdb
+E:\Game\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.csprojAssemblyReference.cache
+E:\cmdl\Game_Server\Bin\Server\NLog.config
+E:\cmdl\Game_Server\Bin\Server\BattleServerLib.dll
+E:\cmdl\Game_Server\Bin\Server\BattleServerLib.pdb
+E:\cmdl\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.csproj.AssemblyReference.cache
+E:\cmdl\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.csproj.CoreCompileInputs.cache
+E:\cmdl\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.csproj.CopyComplete
+E:\cmdl\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.dll
+E:\cmdl\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\NLog.config
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BattleServerLib.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Bin\Server\BattleServerLib.pdb
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.csproj.AssemblyReference.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.csproj.CoreCompileInputs.cache
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleServerLib\obj\Debug\BattleSe.295C96D8.Up2Date
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.dll
+E:\SoulLandDivine\New folder\bbn\server\Game_Server\Server\BattleServerLib\obj\Debug\BattleServerLib.pdb

@@ -1,0 +1,1 @@
+forever start -l pay.log -a paynotice.js

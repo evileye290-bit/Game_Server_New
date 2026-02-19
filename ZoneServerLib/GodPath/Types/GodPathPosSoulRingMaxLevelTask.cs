@@ -1,0 +1,21 @@
+﻿using ServerModels;
+
+namespace ZoneServerLib
+{
+    public class GodPathPosSoulRingMaxLevelTask : BaseGodPathTask
+    {
+        public GodPathPosSoulRingMaxLevelTask(GodPathHero goldPathHero, GodPathTaskModel model) : base(goldPathHero, model)
+        {
+        }
+
+        public override bool Check(HeroInfo hero)
+        {
+            if (Model.Position <= 0) return false;
+
+            SoulRingItem soulRing = GodPathHero.GetEquipedSoulRing(Model.Position);
+            if (soulRing == null) return false;
+
+            return soulRing.Level >= soulRing.GetMaxLevel();
+        }
+    }
+}
